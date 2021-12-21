@@ -1,1 +1,1 @@
-# odin-recipes
+Creating a website with a few recipes to excersice HTML knowlegde.
