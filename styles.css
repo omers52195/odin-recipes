@@ -1,5 +1,6 @@
-* {
+body {
     background-color: rgb(224, 224, 160);
+    background-image: linear-gradient(90deg, rgb(219, 120, 120), yellow);
     text-align: center;
     
 }
