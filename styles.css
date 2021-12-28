@@ -9,6 +9,14 @@ h1 {
     font-size: 42px;
 }
 
+a {
+    text-decoration: none;
+}
+a:hover {
+    font-size: 24px;
+}
+
+
 img {
     height: auto;
     width: 400px;
