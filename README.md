@@ -1,1 +1,1 @@
-Creating a website with a few recipes to excersice HTML knowlegde.
+Creating a website with a few recipes to excersice HTML and CSS knowlegde.
